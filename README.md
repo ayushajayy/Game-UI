@@ -1,3 +1,3 @@
 # Game-UI
-Static Game UI made using Swift on Xcode.
+A simple card game static UI made using Swift on Xcode.
 
