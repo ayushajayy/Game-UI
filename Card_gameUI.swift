@@ -1,4 +1,4 @@
-***Here it is...***
+Here it is...
 
 //  ContentView.swift
 //  WarChallenge
